@@ -1,0 +1,42 @@
+.header *{
+    background-color:rgb(20,230,20);
+    padding: 20px;
+}
+.links {
+   background-image: inherit;
+opacity: 1;
+}
+.about {
+    background-color:rgb(20,230,20);
+    padding-bottom: 20px;
+    background-image: "about1.png";
+    opacity: 10;
+    border-radius: 20px;
+    width: 800px;
+   
+}
+body{
+    background-color:#2343a2;
+}
+.Contact {
+ justify-content: space-between;
+ flex-wrap: wrap;
+ 
+  margin: 20px;
+}
+
+.div {
+margin-bottom : 20px;
+
+}
+.bg{
+    background-color:#2343a2;
+    border-style: double;
+    
+}
+.exp {
+border-radius: 20px;
+padding: 20px;
+
+background-color: rgb(20,230,20);
+}
